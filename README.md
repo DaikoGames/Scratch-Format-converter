@@ -12,5 +12,6 @@ THE ONLY THING THAT NEEDS TO BE DONE BEFORE THAT IS RENAMING THE PROJECT FILE TO
 
 I used multiple parts of Scratch for this Javascript code: 
 scratch-vm: https://github.com/scratchfoundation/scratch-vm
-scratcg-storage: https://github.com/scratchfoundation/scratch-storage
+
+scratch-storage: https://github.com/scratchfoundation/scratch-storage
 
