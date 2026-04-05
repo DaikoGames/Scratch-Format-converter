@@ -9,3 +9,8 @@ then you use: npm install in the folder
 after that you can just use this: node Convert.js
 
 THE ONLY THING THAT NEEDS TO BE DONE BEFORE THAT IS RENAMING THE PROJECT FILE TO "project".  
+
+I used multiple parts of Scratch for this Javascript code: 
+scratch-vm: https://github.com/scratchfoundation/scratch-vm
+scratcg-storage: https://github.com/scratchfoundation/scratch-storage
+
